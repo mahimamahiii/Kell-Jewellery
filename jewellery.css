@@ -1,0 +1,68 @@
+.ring{
+    font-size: 50px;
+}
+.text{
+    font-size: 70px;
+    background: cover;
+}
+.text1{
+    font-size: 60px;
+    margin: 20px;
+    
+}
+#footer {
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 14px;
+}
+#home{
+    background-image: url(bimage.jpg);
+    background-size: cover;
+    height: 250px;
+   
+}
+#about{
+   background-color:white;
+}
+#service{
+    background-color:rgb(253, 223, 179);
+    font-family: 'Lucida Sans Unicode';
+    padding: 15px;
+   
+}
+#ornaments{
+    background-color:rgb(253, 223, 179);
+    font-family: 'Lucida Sans Unicode';
+    padding: 20px;
+}
+#contact {
+    background-color:rgb(253, 223, 179);
+  /* max-width: 600px; */
+  /* margin: 40px auto; */
+  padding: 50px 0;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
+#contact input, #contact textarea {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#contact button {
+  background-color: #8c6b4f;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#contact button:hover {
+  background-color: #a1775d;
+}
